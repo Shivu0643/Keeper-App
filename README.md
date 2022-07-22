@@ -1,5 +1,6 @@
 # Keeper-App
 Built it as a responsive single page website where the users can write or create their notes, and they can save their written notes after clicking the add button and the notes will be visible within the note boxes in our UI. 
+
 In the project directory, you can run:
 
 npm start
